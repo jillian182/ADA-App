@@ -1,0 +1,18 @@
+# Jillian Mae Lee #
+__Ada Developers Academy__, _Essay responses_
+
+1. Why are you interested in programming? What have you done to expose yourself to programming so far?  
+
+    Programming is so accessible and engaging, I was able to learn basic HTML/CSS when I was 11 years old. It’s a skill that kept me interested in details, patterns, and design. I started out by using templates for profile pages on social media sites, then learned how to build simple layouts from scratch. While they were still simplistic, I recognized my interest in website building at a young age and maintained that knowledge through my adolescent years. While in college, I took a User Experience class and Web Design course, both instructed by a professor who had worked in User Research for about 20 years. She introduced me to the world of User Experience design and applied principles of UX into the web design process. With my background in English and creative writing, as well as performing arts, I also applied my writing skills to create content for coding and communications projects. This field intrigued me because of the inclusiveness of different skills, talents, and passions no matter what background you come from.
+
+2. If you are accepted into our program, where do you see your career in 5 years? 
+
+    In 5 years I could see myself working alongside creative developers in start-up businesses, working on projects related to arts or non-profit organizations in small communities. I'd also like to combine my passion for literature and the arts with my skills in technology to improve tools, give back to local communities with special applications, and empower children with creativity and technology.
+
+3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community? 
+
+    As someone who has been surrounded by people of all ethnicities, sexualities, identities and abilities, I've gained worthwhile respect for the team-work mentality that occurs in most fields like tech, as well as the appreciation of each individual personality. I enjoy meeting new people and working with all kinds of skilled and talented individuals, where they bring all kinds of engaging perspectives that make the typical workplace even more welcoming. Ada is one of the most interesting and exciting places where the individual is valued.
+
+4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?
+
+    When starting my most recent part-time job as a barista, I learned the ins and outs of the business. However, with my lack of coffee-shop or retail experience I struggled to fully adapt despite my average efforts. I've done a little better since then, but if I were to go about it again I'd approach my boss much earlier and have an honest talk about my struggles instead of letting myself feel alone. The most important thing I gained from re-approaching my working skills is that I was given a chance to improve and allowed to speak with my boss about how I plan to keep doing better. It seems scary at first if you don't feel comfortable to be honest about what you don't know how to do, but if you happen to work in a place that is accepting of little mistakes and actually wants you to succeed, it's best to recognize that and try everything you can to work on those skills.
